@@ -1,5 +1,37 @@
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+h1{
+  margin-left: 600px;
+}
+nav{
+  a{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: grey;
+  }
+  margin-left: 500px;
+}
+figure{
+  figcaption{
+    font-size: small;
+    margin-left: 250px;
+  }
+  margin-left: 250px;
+}
+#featured-property{
+  max-width: 800px;
+  p{
+    margin-left: 600px;
+  }
+}
+#details{
+  div{
+    float: left;
+    width: 25%;
+    background-color: red;
+  }
 }
